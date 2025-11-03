@@ -36,7 +36,7 @@ const data = {
       items: [
         {
           title: "Category",
-          url: "#"
+          url: "/dashboard/category"
         }
       ]
     }
